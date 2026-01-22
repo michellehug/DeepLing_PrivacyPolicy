@@ -1,4 +1,5 @@
 Privacy Policy – DeepLing (Alpha Test)
+Developer: Jonathan Cooper (DeepLingDev)
 Last updated: January 2026
 
 This Privacy Policy applies to the DeepLing mobile application (Alpha Test). It explains how information is handled during testing.
@@ -51,4 +52,4 @@ This policy may be updated as the app evolves beyond alpha testing.
 
 Contact
 For privacy questions or requests:
-michelle.hug00@gmail.com
+jonathancooper495@gmail.com
